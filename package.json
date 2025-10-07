@@ -1,7 +1,7 @@
 {
   "name": "do-app-demo",
   "version": "1.0.0",
-  "description": "A simple app for DigitalOcean deployment.",
+  "description": "A simple app for sadfasfalksjklfDigitalOcean deployment.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
